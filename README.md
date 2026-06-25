@@ -8,7 +8,6 @@ those letters.
 This code reads through a txt file with a scrabble dictionary, and adds every word that can be made with the letters TABNID to a list, sorting the list alphabetically, and printing it. 
 
 ### Output
-```
 ain
 ait
 an
@@ -50,7 +49,6 @@ tab
 tabid
 tad
 tain
-```
 tan
 ti
 tin
